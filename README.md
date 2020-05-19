@@ -8,4 +8,4 @@ This repo has practise exercise on Tensorflow Keras tutorials
 5. [OVERFIT UNDERFIT](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)<br>
 6. [SAVE AND LOADING](https://www.tensorflow.org/tutorials/keras/save_and_load)<br>
 7. [TF RECORD](https://www.tensorflow.org/tutorials/load_data/tfrecord)
-8. [BASICS] (https://www.tensorflow.org/tutorials/customization/basics)
+8. [BASICS](https://www.tensorflow.org/tutorials/customization/basics)
